@@ -10,6 +10,6 @@
 
 ![ChuckinProto Pic](https://berkbid.github.io/Images/ChuckinProto.png)
 
-2. Stealth Multiplayer Game - [Repository](https://github.com/berkbid/StealthGame)
+3. Stealth Multiplayer Game - [Repository](https://github.com/berkbid/StealthGame)
 
 ![StealthGame Pic](https://berkbid.github.io/Images/StealthGame.png)

@@ -8,3 +8,4 @@
 
 2. Prototype Senior Capstone Game - [Repository Link](https://github.com/berkbid/ChuckinProto)
 
+![CoopGame Pic](https://berkbid.github.io/Images/ChuckinProto.png)

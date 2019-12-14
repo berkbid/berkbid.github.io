@@ -2,10 +2,14 @@
 
 ### Technical Projects
 
-1. Coop FPS Game - [Repository Link](https://github.com/berkbid/CoopGame)
+1. Coop FPS Multiplayer Game - [Repository Link](https://github.com/berkbid/CoopGame)
 
 ![CoopGame Pic](https://berkbid.github.io/Images/CoopGameMini.png)
 
 2. Prototype Senior Capstone Game - [Repository Link](https://github.com/berkbid/ChuckinProto)
 
-![CoopGame Pic](https://berkbid.github.io/Images/ChuckinProto.png)
+![ChuckinProto Pic](https://berkbid.github.io/Images/ChuckinProto.png)
+
+2. Stealth Multiplayer Game - [Repository Link](https://github.com/berkbid/StealthGame)
+
+![StealthGame Pic](https://berkbid.github.io/Images/StealthGame.png)

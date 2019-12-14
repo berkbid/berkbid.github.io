@@ -2,7 +2,7 @@
 
 ### Technical Projects
 
-1. Coop FPS Multiplayer Game - [Repository](https://github.com/berkbid/CoopGame)
+1. Coop Multiplayer Game - [Repository](https://github.com/berkbid/CoopGame)
 
 ![CoopGame Pic](https://berkbid.github.io/Images/CoopGameMini.png)
 

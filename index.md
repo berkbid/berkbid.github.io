@@ -4,7 +4,7 @@
 
 1. Coop Multiplayer Game - [Repository](https://github.com/berkbid/CoopGame)
 
-![CoopGame Pic](https://berkbid.github.io/Images/CoopGameMini.png)
+![CoopGame Pic](https://berkbid.github.io/Images/CoopGameMedium.png)
 
 2. Prototype Senior Capstone Game (Group of 4) - [Repository](https://github.com/berkbid/ChuckinProto)
 

@@ -6,7 +6,7 @@
 
 ![CoopGame Pic](https://berkbid.github.io/Images/CoopGameMini.png)
 
-2. Prototype Senior Capstone Game - [Repository](https://github.com/berkbid/ChuckinProto)
+2. Prototype Senior Capstone Game (Group of 4) - [Repository](https://github.com/berkbid/ChuckinProto)
 
 ![ChuckinProto Pic](https://berkbid.github.io/Images/ChuckinProto.png)
 

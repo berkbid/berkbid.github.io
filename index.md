@@ -7,3 +7,5 @@
 ![ChuckinProto Pic](https://berkbid.github.io/Images/ChuckinProto.png)
 3. Stealth Multiplayer Game - [Repository](https://github.com/berkbid/StealthGame)
 ![StealthGame Pic](https://berkbid.github.io/Images/StealthGame.png)
+4. Dungeon Escape Mini Game - [Repository](https://github.com/berkbid/DungeonEscapeGame)
+![StealthGame Pic](https://berkbid.github.io/Images/DungeonEscapeGame.png)

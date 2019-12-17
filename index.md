@@ -9,3 +9,5 @@
 ![StealthGame Pic](https://berkbid.github.io/Images/StealthGame.png)
 4. Dungeon Escape Mini Game (Group of 2) - [Repository](https://github.com/berkbid/DungeonEscapeGame)
 ![DungeonGame Pic](https://berkbid.github.io/Images/DungeonEscape.png)
+5. Aim Training Game (Group of 3) - [Repository](https://github.com/berkbid/AimTrainingGame)
+![AimTrainingGame Pic](https://berkbid.github.io/Images/AimnGame.png)

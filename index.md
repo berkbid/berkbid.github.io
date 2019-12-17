@@ -1,6 +1,4 @@
 ## Welcome to my GitHub Page! [GitHub Repository](https://github.com/berkbid)
-
-### Technical Projects
 1. Coop Multiplayer Game in UE4/C++ [Repository](https://github.com/berkbid/CoopGame)
 ![CoopGame Pic](https://berkbid.github.io/Images/CoopGameMedium.png)
 2. Prototype Senior Capstone Game in UE4/C++ (Group of 4) [Repository](https://github.com/berkbid/ChuckinProto)

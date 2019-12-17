@@ -8,4 +8,4 @@
 3. Stealth Multiplayer Game - [Repository](https://github.com/berkbid/StealthGame)
 ![StealthGame Pic](https://berkbid.github.io/Images/StealthGame.png)
 4. Dungeon Escape Mini Game (Group of 2) - [Repository](https://github.com/berkbid/DungeonEscapeGame)
-![StealthGame Pic](https://berkbid.github.io/Images/DungeonEscape.png)
+![DungeonGame Pic](https://berkbid.github.io/Images/DungeonEscape.png)

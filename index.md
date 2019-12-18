@@ -9,5 +9,5 @@
 ![DungeonGame Pic](https://berkbid.github.io/Images/DungeonEscape.png)
 5. Aim Training Game in GameMaker Studio 2 (Group of 3) [Repository](https://github.com/berkbid/AimTrainingGame)
 ![AimTrainingGame Pic](https://berkbid.github.io/Images/AimnGame.png)
-6. Elemental Dungeon Platformer Game in Unity/C# (Group of 3) [Repository](https://github.com/berkbid/ElementalDungeon)
+6. Elemental Dungeon Platformer Game in Unity/C# (Group of 4) [Repository](https://github.com/berkbid/ElementalDungeon)
 ![ElementalDungeon Pic](https://berkbid.github.io/Images/ElementalDungeon.png)

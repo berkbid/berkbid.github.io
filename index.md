@@ -30,7 +30,7 @@
 
 ----
 
-### Elemental Dungeon Platformer Game in Unity/C# (Group of 4) [Repository](https://github.com/berkbid/ElementalDungeon)
+### Elemental Dungeon Platformer Game in Unity (Group of 4) [Repository](https://github.com/berkbid/ElementalDungeon)
 ![ElementalDungeon Pic](https://berkbid.github.io/Images/ElementalDungeon.png)
 * Dates of development: May 2017 - Aug 2017
 

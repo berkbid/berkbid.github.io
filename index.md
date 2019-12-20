@@ -8,7 +8,7 @@
 
 ### Prototype Senior Capstone Game in UE4/C++ (Group of 4) [Repository](https://github.com/berkbid/ChuckinProto)
 ![ChuckinProto Pic](https://berkbid.github.io/Images/ChuckinProto.png)
-* Dates of development: Sept 2019 - Oct 2019
+* Dates of development: Sep 2019 - Oct 2019
 
 ----
 

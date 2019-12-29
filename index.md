@@ -1,7 +1,7 @@
 ## Welcome to my GitHub Page! [GitHub Repository](https://github.com/berkbid)
 
 ### Coop Multiplayer Game in UE4/C++ [Repository](https://github.com/berkbid/CoopGame)
-![CoopGame Pic](https://berkbid.github.io/Images/CoopGameMedium.png)
+![CoopGame Pic](https://berkbid.github.io/Images/CoopGame4.png)
 * Dates of development: June 2019 - Present
 
 ----

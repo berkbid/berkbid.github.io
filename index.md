@@ -18,12 +18,6 @@
 
 ----
 
-### Stealth Multiplayer Game in UE4/C++ [Repository](https://github.com/berkbid/StealthGame)
-![StealthGame Pic](https://berkbid.github.io/Images/StealthGame.png)
-* Dates of development: June 2019
-
-----
-
 ### Aim Training Game in GameMaker Studio 2 (Group of 3) [Repository](https://github.com/berkbid/AimTrainingGame)
 ![AimTrainingGame Pic](https://berkbid.github.io/Images/AimnGame.png)
 * Dates of development: Feb 2019 - Apr 2019

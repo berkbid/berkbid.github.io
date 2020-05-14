@@ -1,7 +1,7 @@
 ## Welcome to my GitHub Page! [GitHub Repository](https://github.com/berkbid)
 
 ### KillSteel - Senior Project Game [Steam Page](https://store.steampowered.com/app/1269550/KillSteel/)
-![KillSteel Pic](https://berkbid.github.io/Images/KillSteel.png)
+![KillSteel Pic](https://berkbid.github.io/Images/KillSteel2.png)
 * Dates of development: Oct 2019 - Apr 2020
 
 ----

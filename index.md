@@ -1,5 +1,11 @@
 ## Welcome to my GitHub Page! [GitHub Repository](https://github.com/berkbid)
 
+### KillSteel - Senior Project Game [Steam Page](https://store.steampowered.com/app/1269550/KillSteel/)
+![KillSteel Pic](https://berkbid.github.io/Images/KillSteel.png)
+* Dates of development: Oct 2019 - Apr 2020
+
+----
+
 ### Coop Multiplayer Game in UE4/C++ [Repository](https://github.com/berkbid/CoopGame)
 ![CoopGame Pic](https://berkbid.github.io/Images/CoopGameNew.png)
 * Dates of development: June 2019 - Present
@@ -9,12 +15,6 @@
 ### Prototype Senior Capstone Game in UE4/C++ (Group of 4) [Repository](https://github.com/berkbid/ChuckinProto)
 ![ChuckinProto Pic](https://berkbid.github.io/Images/ChuckinProto.png)
 * Dates of development: Sep 2019 - Oct 2019
-
-----
-
-### Dungeon Escape Mini Game in UE4/Blueprints (Group of 2) [Repository](https://github.com/berkbid/DungeonEscapeGame)
-![DungeonGame Pic](https://berkbid.github.io/Images/DungeonEscape.png)
-* Dates of development: Dec 2019
 
 ----
 

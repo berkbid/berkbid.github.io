@@ -7,7 +7,7 @@
 ----
 
 ### Snipers Game in UE4/C++ [Downloadable on Itch.io](https://buleh.itch.io/snipers)
-![CoopGame Pic](https://berkbid.github.io/Images/CoopGameNew.png)
+![CoopGame Pic](https://berkbid.github.io/Images/SnipersPic.png)
 * Dates of development: Apr 2020 - Present
 
 ----

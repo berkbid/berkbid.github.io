@@ -6,7 +6,7 @@
 
 ----
 
-### Snipers Game in UE4/C++ Using Steam Subsystem 
+### Snipers Multiplayer Prototype in UE4/C++ Using Steam Subsystem 
 ### [Downloadable on Itch.io](https://buleh.itch.io/snipers)
 ![CoopGame Pic](https://berkbid.github.io/Images/SnipersPic.png)
 * Dates of development: Apr 2020 - Present

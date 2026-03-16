@@ -6,7 +6,7 @@
 
 ----
 
-### KillSteel Online (Prototype) - Prototype of multiplayer version of KillSteel
+### KillSteel Online (Prototype) - Multiplayer version of KillSteel
 ### (Solo Project) Download: [Itch.io Link](https://buleh.itch.io/killsteel-online)
 ![KillSteelOnline Pic](https://berkbid.github.io/Images/KillSteelOnline1.png)
 * Dates of development: Apr 2025 - Present

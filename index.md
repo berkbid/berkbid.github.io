@@ -6,8 +6,15 @@
 
 ----
 
+### KillSteel Online (Prototype) - Prototype of multiplayer version of KillSteel
+### (Solo Project) Download: [Itch.io Link](https://buleh.itch.io/killsteel-online)
+![KillSteelOnline Pic](https://berkbid.github.io/Images/KillSteelOnline1.png)
+* Dates of development: Apr 2025 - Present
+
+----
+
 ### Snipers Multiplayer Prototype in UE4/C++ Using Steam Subsystem 
-### (Solo Project) Download: [https://buleh.itch.io/snipers](https://buleh.itch.io/snipers)
+### (Solo Project) Download: [Itch.io Link](https://buleh.itch.io/snipers)
 ![CoopGame Pic](https://berkbid.github.io/Images/SnipersPic.png)
 * Dates of development: Apr 2020 - Present
 

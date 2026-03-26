@@ -21,7 +21,7 @@
 # Snipers Multiplayer Prototype in UE4/C++ Using Steam Subsystem 
 ### Solo Project: [Itch.io](https://buleh.itch.io/snipers)
 ![CoopGame Pic](https://berkbid.github.io/Images/SnipersPic.png)
-* Dates of development: Apr 2020 - Present
+* Dates of development: Apr 2020 - Oct 2023
 
 ----
 

@@ -5,21 +5,21 @@
 ----
 
 # KillSteel Online (Prototype) - Multiplayer version of KillSteel
-## (Solo Project) Download: [Itch.io Link](https://buleh.itch.io/killsteel-online)
+### Solo Project: [Itch.io](https://buleh.itch.io/killsteel-online)
 ![KillSteelOnline Pic](https://berkbid.github.io/Images/KillSteelOnline1.png)
 * Dates of development: Apr 2025 - Present
 
 ----
 
 # Aura - Multiplayer RPG
-## (Solo Project) Download: [Itch.io Link](https://buleh.itch.io/aura)
+### Solo Project: [Itch.io](https://buleh.itch.io/aura)
 ![Aura Pic](https://berkbid.github.io/Images/Aura_Main.png)
 * Dates of development: Sep 2023 - Present
 
 ----
 
 # Snipers Multiplayer Prototype in UE4/C++ Using Steam Subsystem 
-## (Solo Project) Download: [Itch.io Link](https://buleh.itch.io/snipers)
+### Solo Project: [Itch.io](https://buleh.itch.io/snipers)
 ![CoopGame Pic](https://berkbid.github.io/Images/SnipersPic.png)
 * Dates of development: Apr 2020 - Present
 

@@ -1,9 +1,3 @@
-# KillSteel - Senior Project Game (Group of 14) [Steam Page](https://store.steampowered.com/app/1269550/KillSteel/)
-![KillSteel Pic](https://berkbid.github.io/Images/KillSteel2.png)
-* Dates of development: Oct 2019 - Apr 2020
-
-----
-
 # KillSteel Online (Prototype) - Multiplayer version of KillSteel
 ### Solo Project: [Itch.io](https://buleh.itch.io/killsteel-online)
 ![KillSteelOnline Pic](https://berkbid.github.io/Images/KillSteelOnline1.png)
@@ -18,6 +12,11 @@
 
 ----
 
+# KillSteel - Senior Project Game (Group of 14) [Steam Page](https://store.steampowered.com/app/1269550/KillSteel/)
+![KillSteel Pic](https://berkbid.github.io/Images/KillSteel2.png)
+* Dates of development: Oct 2019 - Apr 2020
+
+----
 # Snipers Multiplayer Prototype in UE4/C++ Using Steam Subsystem 
 ### Solo Project: [Itch.io](https://buleh.itch.io/snipers)
 ![CoopGame Pic](https://berkbid.github.io/Images/SnipersPic.png)

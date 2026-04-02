@@ -6,7 +6,7 @@
 ----
 
 # Aura - Multiplayer RPG
-### Solo Project: [Itch.io](https://buleh.itch.io/aura)
+### Solo Project: [Itch.io](https://buleh.itch.io/aura) - [Repo](https://github.com/berkbid/GameplayAbilitySystem_Aura)
 ![Aura Pic](https://berkbid.github.io/Images/Aura_Main.png)
 * Dates of development: Sep 2023 - Present
 

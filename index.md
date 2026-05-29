@@ -1,7 +1,7 @@
-# KillSteel Online (Prototype) - Multiplayer version of KillSteel
+# KillSteel Online (Prototype) - Multiplayer car combat game
 ### Solo Project: [Itch.io](https://buleh.itch.io/killsteel-online)
 ![KillSteelOnline Pic](https://berkbid.github.io/Images/KillSteelOnline1.png)
-* Dates of development: Apr 2025 - Present
+* Dates of development: Nov 2024 - Present
 
 ----
 
